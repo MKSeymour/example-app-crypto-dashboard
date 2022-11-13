@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import plotly
 
 st.set_page_config(page_icon="📈", page_title="Crypto Dashboard")
 
